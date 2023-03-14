@@ -6,6 +6,8 @@ Treinando merge e rebase
 coloquei uma branch
 
 muda mais
+
+uesss
 =======
 muda muda no remoto
 Treinando merge e rebase
